@@ -1,7 +1,9 @@
 # gender-gaps-depression
-This code is for replicating a working paper on the gender depression gap and the role of unequal labor market opportunities.
+This code is to replicate a working paper on the gender depression gap and the role of unequal labor market opportunities.
 
-In this paper, we use the longitudinal g-formula with Monte Carlo integration to perform a dynamic causal decomposition analysis. We perform subgroup analyses by race/ethnicitiy and education. The code for the subgroup analyses is can be find in this repository as well.
+In this paper, we use the longitudinal g-formula with Monte Carlo integration to perform a dynamic causal decomposition analysis. We perform subgroup analyses by race/ethnicitiy and education. The code for the subgroup analyses can be found in this repository as well.
+
+The data source for this analysis is the Health and Retirement Study which is accessible at (http://hrsonline.isr.umich.edu/). 
 
 For more information check out our working paper: 
 GUELTZOW, M.; BIJLSMA, M. J.; VAN LENTHE, F. J.; MYRSKYLÄ, M.: 
